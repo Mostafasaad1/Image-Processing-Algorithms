@@ -85,6 +85,4 @@ Feel free to fork this repository, submit pull requests, or open issues for any 
 
 ## License
 
-This project is open-source and available under the MIT License. See the `LICENSE` file for more details. (Note: A `LICENSE` file is not included in this project, but it's good practice to add one.)
-
-
+This project is open-source and available under the MIT License
